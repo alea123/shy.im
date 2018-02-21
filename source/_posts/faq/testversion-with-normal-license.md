@@ -12,3 +12,5 @@ Die Lizenzen findet man unter
 - Grundeinstellungen
 - Weitere Einstellungen
 - Lizenz-Manager
+
+Merke: Ist das Plugin nicht korrekt programmiert, funktioniert dieser "Trick" leider nicht und man sollte den Hersteller kontaktieren.
